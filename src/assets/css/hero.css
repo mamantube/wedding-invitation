@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&display=swap");
+
+
+.hero {
+    min-height: 100vh;
+    background-color: var(--bg);
+}
+.hero h1 {
+  font-family: "Playwrite AU VIC", cursive;
+  font-size: 6rem;
+}
