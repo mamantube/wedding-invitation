@@ -33,7 +33,9 @@ export default function Hero() {
     <section className="hero w-100 h-100 p-3 mx-auto text-center d-flex justify-content-center align-items-center text-white">
       <main>
         <h4>Kepada Bapak/Ibu/Saudara/i,</h4>
-        <h1>Firman & Rose
+        <h3>............</h3>
+        <h2>Di tempat</h2>
+        <h1>Firman & Icha
         </h1>
         <p>Akan melangsungkan resepsi pernikahan dalam: </p>
         <div ref={countdownRef} className="simply-countdown"></div>
